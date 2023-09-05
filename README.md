@@ -15,5 +15,5 @@ Learning material: 【跃鹿干货 · 电控篇 | basic_framework整体架构介
 
 ## Folder "developing"
 * The folder "developing" is the developing workspace. 
-* Mostly we make updates in this folder.
-* Don't forget to use branch when doing your own part, and only merge to main branch after conducting as many tests as you can. (At least the code can be compiled without error.)
+* Make a branch with your name
+* In the beginning stage, we plan to invite everyone develop a basic structure on their own, which is expected to fulfill really basic function including moving, shooting and communication.
